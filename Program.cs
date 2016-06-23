@@ -12,6 +12,7 @@ namespace ConsoleApplication2
         {
 	    int Moneys = 1000
             string meinName = "Du Suppe"
+	    string meinehose = "lila"
         }
     }
 }
