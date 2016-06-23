@@ -11,6 +11,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
 	    int Moneys = 1000
+            string meinName = "Du Suppe"
         }
     }
 }
